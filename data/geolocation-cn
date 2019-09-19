@@ -5,6 +5,7 @@ include:baidu
 include:bilibili
 include:bytedance
 include:douyu
+include:huya
 include:iqiyi
 include:jd
 include:jiemian
@@ -22,6 +23,9 @@ include:meituan
 include:eleme
 include:oneplus
 include:stage1st
+include:wanfang
+include:cnki
+include:cas
 
 # CDNs
 
@@ -179,7 +183,6 @@ geetest.com
 geilicdn.com
 getui.com
 gitee.com
-google-analytics.com
 growingio.com
 gtags.net
 gwdang.com
