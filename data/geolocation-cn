@@ -4,16 +4,21 @@ include:alibaba
 include:baidu
 include:bilibili
 include:bytedance
+include:coolapk
+include:ctrip
 include:douyu
+include:huawei
 include:huya
 include:iqiyi
 include:jd
 include:jiemian
+include:mafengwo
 include:netease
 include:qihoo360
 include:sina
 include:tencent
 include:tmtpost
+include:tongcheng
 include:umeng
 include:unionpay
 include:xiaomi
@@ -26,13 +31,22 @@ include:stage1st
 include:wanfang
 include:cnki
 include:cas
+include:youku
+include:pinduoduo
 
 # CDNs
 
 ourdvsss.com # 网宿科技
-cdn.jsdelivr.net
 ksyun.com # 金山云
 ksyungslb.com # 金山云
+
+# Bank of China
+abchina.com
+boc.cn
+whccb.com
+
+# Moji Weather
+moji.com
 
 # The following domains are carried over from geosite:cn.
 # TODO: Decide how to deal with these domains
@@ -43,6 +57,7 @@ ksyungslb.com # 金山云
 123juzi.net
 123u.com
 17173.com
+178.com
 17cdn.com
 188.com
 1905.com
@@ -79,14 +94,11 @@ ksyungslb.com # 金山云
 900.la
 9718.com
 9xu.com
-abchina.com
 acfun.tv
-acgvideo.com
 agrantsem.com
 aicdn.com
 aixifan.com
 allyes.com
-amap.com
 anjuke.com
 anquan.org
 appinn.com
@@ -136,12 +148,10 @@ cnblogs.com
 cnepub.com
 cnzz.com
 coding.net
-coolapk.com
 cqvip.com
 csbew.com
 csdn.net
 ctfile.com
-ctrip.com
 cubead.com
 dajie.com
 dajieimg.com
@@ -171,7 +181,6 @@ ecitic.com
 edu.cn
 emarbox.com
 eoeandroid.com
-etao.com
 excelhome.net
 fanli.com
 feng.com
@@ -236,7 +245,6 @@ jiayuan.com
 jikexueyuan.com
 jisuanke.com
 jmstatic.com
-jsdelivr.net
 jstv.com
 jumei.com
 jyimg.com
@@ -246,6 +254,7 @@ kankanews.com
 kejet.net
 kf5.com
 kimiss.com
+kingdee.com
 kouclo.com
 koudai.com
 koudai8.com
@@ -279,7 +288,6 @@ lufaxcdn.com
 lvmama.com
 lxdns.com
 lxway.com
-ly.com
 mayihr.com
 mechina.org
 mediav.com
@@ -293,7 +301,7 @@ miaopai.com
 miaozhen.com
 mmbang.com
 mmbang.info
-mmstat.com
+moegirl.org
 mogucdn.com
 mogujie.com
 moocollege.com
@@ -304,6 +312,7 @@ mydrivers.com
 myshow360.net
 mzstatic.com
 newbandeng.com
+ngabbs.com
 ngacn.cc
 ntalker.com
 nvsheng.com
@@ -322,7 +331,6 @@ pps.tv
 psbc.com
 pubyun.com
 qbox.me
-qcloud.com
 qiaobutang.com
 qidian.com
 qie.tv
@@ -336,7 +344,6 @@ qiniudns.com
 qtmojo.com
 qunar.com
 qunarzz.com
-qzone.com
 renren.com
 rfchost.com
 runoob.com
@@ -400,7 +407,6 @@ weidian.com
 weiphone.com
 weiphone.net
 weixing.com
-weiyun.com
 wonnder.com
 worktile.com
 wooyun.org
@@ -408,7 +414,6 @@ wrating.com
 wscdns.com
 wumii.com
 xiachufang.com
-xiami.com
 xiaokaxiu.com
 xitu.com
 xinhuanet.com
@@ -432,11 +437,12 @@ yixi.tv
 yjbys.com
 yhd.com
 youboy.com
-youku.com
+youshang.com
 ysten.com
 yunba.io
 yundaex.com
 yunshipei.com
+yunzhijia.com
 yupoo.com
 yuzua.com
 yy.com
