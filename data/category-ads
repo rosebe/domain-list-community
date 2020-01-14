@@ -1,5 +1,6 @@
 # This file contains domains that clearly serving ads
 
+include:acfun-ads
 include:alibaba-ads
 include:apple-ads
 include:baidu-ads
@@ -8,29 +9,33 @@ include:google-ads
 include:hunantv-ads
 include:iqiyi-ads
 include:jd-ads
+include:kuaishou-ads
 include:letv-ads
+include:mxplayer-ads
 include:netease-ads
 include:sina-ads
 include:sohu-ads
 include:tappx-ads
+include:umeng-ads
 include:xiaomitv-ads
 include:youku-ads
-
+include:yyets-ads
 
 # Other domains for ads serving
-a.adtng.com
-ad.api.moji.com
-ad-srv.net
-ad.wang502.com
-ads.trafficjunky.net
 51y5.net
+a.adtng.com
+ad-srv.net
+ad.api.moji.com
+ad.wang502.com
 adbutter.net
+ads.trafficjunky.net
 cfts1tifqr.com
 contentabc.com
-jl3.yjaxa.top
 img-bss.csdn.net
-imglnkd.com
 imglnkc.com
+imglnkd.com
+ja2.gamersky.com
+jl3.yjaxa.top
 kepler-37b.com
 lqc006.com
 s4yxaqyq95.com
@@ -47,8 +52,8 @@ ad.unimhk.com
 ysm.yahoo.com
 
 adxprtz.com
-exosrv.com
 exoclick.com
+exosrv.com
 
 cdn.advertserve.com
 cdn.banclip.com
